@@ -32,6 +32,14 @@ $ npm install --global lambda-pure-prompt
 
 That's it. Skip to [Getting started](#getting-started).
 
+### Fig
+
+[Fig](https://fig.io) adds apps, shortcuts, and autocomplete to your existing terminal.
+
+Install `lambda-pure` in just one click.
+
+<a href="https://fig.io/plugins/other/lambda-pure_marszall87" target="_blank"><img src="https://fig.io/badges/install-with-fig.svg" /></a>
+
 ### Manually
 
 1. Either…
